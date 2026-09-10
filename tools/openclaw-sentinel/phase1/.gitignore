@@ -1,8 +1,0 @@
-# OpenClaw Sentinel runtime evidence
-openclaw-sentinel-phase1/
-**/discovery.json
-**/discovery.md
-**/errors.log
-**/capability_gaps.txt
-**/manifest.txt
-**/raw/
